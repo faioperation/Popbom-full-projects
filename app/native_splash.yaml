@@ -1,0 +1,19 @@
+flutter_native_splash:
+  android: true
+  ios: true
+
+  color: "#FFFFFF"
+  image: "assets/images/wo-bg.png"
+
+  #DARK MODE
+  color_dark: "#000000"
+  image_dark: "assets/images/wo-bg.png"
+
+  
+  android_12:
+    color: "#000000"
+    image: "assets/images/wo-bg.png"
+#   icon_background_color: "#FFFFFF"
+
+    image_dark: "assets/images/wo-bg.png"
+#   icon_background_color_dark: "#000000"
