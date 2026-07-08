@@ -1,0 +1,1 @@
+export const FOLLOW_STATUS =['follow','unfollow'] as const;
